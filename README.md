@@ -1,4 +1,4 @@
 Olá 👋
-
 - estudando: HTML, JAVASCRIPT, CSS, SQL, NODE, REACT
-- meu instagram: @leonardo_lima.12
+- meu instagram: @_leozin20
+- 
